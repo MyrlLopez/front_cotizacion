@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card shadow-2-strong{
+  border-radius: 1rem;
+
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root{
+  background-color: #e92f3d !important;
+   
+}
+.btn{
+  background-color: #fa505e !important;
+  border-color: #f7b1b7 !important;
+
+}
+
+.btn btn-primary btn-lg btn-block{
+  background-color: #e92f3d;
+
+}
+
+.btn btn-lg btn-block btn-primary{
+  background-color: #e92f3d;
+}
+
+/* home css */
